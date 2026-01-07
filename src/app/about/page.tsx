@@ -18,7 +18,7 @@ const AboutPage = () => {
             <div className="w-full md:w-1/2">
                 <div className="relative h-[400px] w-full rounded-2xl overflow-hidden border border-gray-800">
                     <Image
-                        src="/images/Gemini_Generated_Image_v5q2e1v5q2e1v5q2.png"
+                        src="/images/WhatsApp Image 2025-12-25 at 8.21.18 PM"
                         alt="About Me"
                         fill
                         className="object-cover"
